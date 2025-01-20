@@ -2,7 +2,7 @@
 
 This Terraform configuration sets up an AWS Virtual Private Cloud (VPC) with both public and private subnets across two availability zones. It includes optional deployment of a NAT Gateway, security groups, internet gateway, and routing configurations.
 
-![AWS Architecture Diagram](../images/tf_module_aws_networking_setup.png "AWS Networking Setup")
+![AWS Architecture Diagram](./images/tf_module_aws_networking_setup.png "AWS Networking Setup")
 
 ## Features
 
